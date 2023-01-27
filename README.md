@@ -5,4 +5,8 @@ Estou disponibilizando exatamente o mesmo código gerado pela IA, e analisando e
 
 Claro que isso não anula a parte humana, ainda há muito para evoluir.
 
-A IA utilizou o PyGame como biblioteca para o desenvolvimento. Então basta instalar o pacote do PyGame para conseguir rodar o projeto
+A IA utilizou o PyGame como biblioteca para o desenvolvimento. Então basta instalar o pacote do PyGame para conseguir rodar o projeto.
+
+# Como Instalar o PyGame:
+* No terminal do seu sistema digite: pip install pygame
+* Caso seja Linux ou Mac: pip3 install pygame
